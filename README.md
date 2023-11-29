@@ -1,0 +1,2 @@
+# amort
+compute amortization tables
